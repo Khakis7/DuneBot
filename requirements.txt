@@ -1,0 +1,9 @@
+aiohttp
+aiosqlite
+discord.py
+python-dotenv
+openskill
+nextcord
+sqlalchemy[asyncio]
+asyncpg
+alembic
